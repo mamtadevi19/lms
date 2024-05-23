@@ -1,9 +1,7 @@
-import React from 'react'
+import React from "react";
 
 const ViewCourse = () => {
-  return (
-    <div>ViewCourse</div>
-  )
-}
+  return <div>ViewCourse</div>;
+};
 
-export default ViewCourse
+export default ViewCourse;
