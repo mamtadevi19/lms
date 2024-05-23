@@ -4,6 +4,6 @@ const VerifyOtp = () => {
   return (
     <div>VerifyOtp</div>
   )
-}
+};
 
-export default VerifyOtp
+export default VerifyOtp;

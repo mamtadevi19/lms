@@ -4,6 +4,6 @@ const SearchCourse = () => {
   return (
     <div>SearchCourse</div>
   )
-}
+};
 
-export default SearchCourse
+export default SearchCourse;
