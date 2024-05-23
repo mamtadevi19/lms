@@ -1,6 +1,6 @@
 import {Routes, Route} from "react-router-dom";
 import Home from "./pages/Home";
-import About from "./pages/About"
+import About from "./pages/About";
 import Catalog from "./pages/Catalog";
 import ContactUs from "./pages/ContactUs";
 import DashBoard from "./pages/DashBoard";
@@ -40,6 +40,6 @@ const App = () => {
         
         </div>
   )
-}
+};
 
-export default App
+export default App;
