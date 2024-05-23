@@ -1,9 +1,7 @@
-import React from 'react'
+import React from "react";
 
 const SearchCourse = () => {
-  return (
-    <div>SearchCourse</div>
-  )
+  return <div>SearchCourse</div>;
 };
 
 export default SearchCourse;
